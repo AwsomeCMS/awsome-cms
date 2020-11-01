@@ -1,2 +1,2 @@
-# awsumCMS
-Creates an awsumCMS installation in an AWS account.
+# AwsomeCMS
+Creates an AwsomeCMS installation in an AWS account.
