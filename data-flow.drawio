@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T21:41:24.195Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4315.5 Safari/537.36" etag="r-7Y14HferuBY1Akyo1-" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T21:43:14.387Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4315.5 Safari/537.36" etag="Y4rODSbN_CHmt2tG7Rq0" version="13.9.2" type="github">
   <diagram id="zn3NlYFR33-cAy8xSXkA" name="Page-1">
     <mxGraphModel dx="880" dy="2149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cgR5DXy2LmxDQuLpnnI5-3" value="Individual&lt;br&gt;objects&lt;br&gt;stored under&lt;br&gt;space" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=middle;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="cgR5DXy2LmxDQuLpnnI5-3" value="Individual&lt;br&gt;objects&lt;br&gt;stored under&lt;br&gt;spaceId" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=middle;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;horizontal=1;labelBackgroundColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="75" height="78" as="geometry" />
         </mxCell>
         <mxCell id="cgR5DXy2LmxDQuLpnnI5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cgR5DXy2LmxDQuLpnnI5-5">
